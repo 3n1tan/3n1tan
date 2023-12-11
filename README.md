@@ -4,7 +4,13 @@ Enitan Odupitan
 About Me
 -------------
 
-A seasoned hardware and network engineer who discovered a passion for programming during parental leave, marking a transformative shift in career focus. Seamlessly integrating hardware and network expertise into coding, I am known for precision and enthusiasm in tackling technological challenges. Beyond the tech realm, I am also an avid cyclist, a skilled photographer capturing life's moments through a lens, and an adventurous skier navigating both slopes and code with equal finesse. With a commitment to staying at the forefront of technology and a diverse set of interests, I embody adaptability and resilience, showcasing the powerful synergy of a multifaceted skill set in the dynamic landscape of both professional and personal pursuits.
+A seasoned hardware and network engineer who discovered a passion for programming during parental leave, marking a transformative shift in career focus. 
+
+Seamlessly integrating hardware and network expertise into coding, I am known for precision and enthusiasm in tackling technological challenges. 
+
+Beyond the tech realm, I am also an avid cyclist, a skilled photographer capturing life's moments through a lens, and an adventurous skier navigating both slopes and code with equal finesse. 
+
+With a commitment to staying at the forefront of technology and a diverse set of interests, I embody adaptability and resilience, showcasing the powerful synergy of a multifaceted skill set in the dynamic landscape of both professional and personal pursuits.
 
 * 🌍  I'm based in Helsinki, Finland
 * 🖥️  See my portfolio at [MyPortfolio](http://enitanodupitan.com)
