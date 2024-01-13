@@ -16,7 +16,7 @@ With a commitment to staying at the forefront of technology and a diverse set of
 * 🖥️  See my portfolio at [MyPortfolio](http://enitanodupitan.com)
 * ✉️  You can contact me at [odupitanenitan@gmail.com](mailto:odupitanenitan@gmail.com)
 * 🧠  I'm learning Typescript
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects, junior developer roles.
 * ⚡  To fall asleep faster, I lie face down and raise my legs up......weird fact about me!
 
 ### Skills
