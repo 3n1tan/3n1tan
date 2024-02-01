@@ -10,12 +10,10 @@ Seamlessly integrating hardware and network expertise into coding, I am known fo
 
 Beyond the tech realm, I am also an avid road-cyclist, a skilled photographer capturing life's moments through a lens, and an adventurous skier navigating both slopes and code with equal finesse. 
 
-With a commitment to staying at the forefront of technology and a diverse set of interests, I embody adaptability and resilience, showcasing the powerful synergy of a multifaceted skill set in the dynamic landscape of both professional and personal pursuits.
-
 * 🌍  I'm based in Helsinki, Finland
 * 🖥️  See my portfolio at [MyPortfolio](http://enitanodupitan.com)
 * ✉️  You can contact me at [odupitanenitan@gmail.com](mailto:odupitanenitan@gmail.com)
-* 🧠  I'm learning NextJS authentication, Python.
+* 🧠  I'm learning Python, Data Structures & Algorithms.
 * 🤝  I'm open to collaborating on Projects, junior developer roles.
 * ⚡  To fall asleep faster, I lie face down and raise my legs up......weird fact about me!
 
