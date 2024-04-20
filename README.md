@@ -12,7 +12,7 @@ Beyond the tech realm, I am also an avid road-cyclist, a skilled photographer ca
 
 * 🌍  I'm based in Helsinki, Finland
 * 🖥️  See my portfolio at [MyPortfolio](http://enitanodupitan.com)
-* ✉️  You can contact me at [odupitanenitan@gmail.com](mailto:odupitanenitan@gmail.com)
+* ✉️  You can contact me at [enquiries@enitanodupitan.com](mailto:enquiries@enitanodupitan.com)
 * 🧠  I'm currently learning to improve my skills through learning and practices.
 * 🤝  I'm open to collaborating on Projects, junior developer roles.
 * ⚡  To fall asleep faster, I lie face down and raise my legs up......weird fact about me!
