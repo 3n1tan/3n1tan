@@ -4,11 +4,11 @@ Enitan Odupitan
 About Me
 -------------
 
-A seasoned hardware and network engineer who discovered a passion for programming during parental leave, marking a transformative shift in career focus. 
+A passionate computer networking technician who discovered a passion for programming during parental leave, marking a transformative shift in career focus. 
 
 Seamlessly integrating hardware and network expertise into coding, I am known for precision and enthusiasm in tackling technological challenges. 
 
-Beyond the tech realm, I am also an avid road-cyclist, a skilled photographer capturing life's moments through a lens, and an adventurous skier navigating both slopes and code with equal finesse. 
+Beyond the tech realm, I am also an avid road-cyclist, a skilled photographer capturing life's moments through a lens, and an adventurous skier navigating both slopes and code. 
 
 * 🌍  I'm based in Helsinki, Finland
 * 🖥️  See my portfolio at [MyPortfolio](http://enitanodupitan.com)
