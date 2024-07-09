@@ -8,7 +8,7 @@ A passionate computer networking technician who discovered a passion for program
 
 Seamlessly integrating hardware and network expertise into coding, I am known for precision and enthusiasm in tackling technological challenges. 
 
-Beyond the tech realm, I am also an avid road-cyclist, a skilled photographer capturing life's moments through a lens, and an adventurous skier navigating both slopes and code. 
+Beyond the tech realm, I am also an avid road-cyclist, a skilled photographer capturing life's moments through a lens, and an adventurous skier. 
 
 * 🌍  I'm based in Helsinki, Finland
 * 🖥️  See my portfolio at [MyPortfolio](http://enitanodupitan.com)
